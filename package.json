@@ -1,13 +1,12 @@
 {
-  "name": "theme-starter",
-  "title": "Starter Theme",
-  "displayName": "Starter Theme",
+  "name": "epaper-theme",
+  "title": "Epaper theme",
+  "displayName": "Epaper theme",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great dark theme to start your own themes.",
+  "description": "A great low contrast theme",
   "license": "MIT",
   "engines": {
     "mailspring": "*"
   }
 }
-
